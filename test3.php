@@ -8,7 +8,7 @@
 <?php
 /**
  * Return an array of timezones
- * 
+ * Updated 2016/Apr/06
  * @return array
  */
 function timezoneList()
