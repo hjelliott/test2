@@ -14,6 +14,7 @@ foreach( $timezones as $key => $zones )
     foreach( $zones as $id => $zone )
     {
         /**
+		* changed this one too --------
          * Only get timezones explicitely not part of "Others".
          * @see http://www.php.net/manual/en/timezones.others.php
          */
